@@ -1,6 +1,6 @@
 # Configurable Digital Clock using PIC16F877A
 
-A 24-hour configurable digital clock developed using PIC16F877A microcontroller and Embedded C.  
+A 24-hour configurable digital clock developed using a PIC16F877A microcontroller and Embedded C.  
 The project uses a 4-digit 7-segment display and digital keypad switches for real-time clock configuration.
 
 ---
